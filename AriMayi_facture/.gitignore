@@ -1,0 +1,11 @@
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+**/*.log
+*.class
+*.iml
+.idea/
+/*.iml
+/.vscode/
+.DS_Store
+.env
+src/main/resources/application.properties 
